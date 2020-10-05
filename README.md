@@ -1,6 +1,9 @@
 # Comparison.cs
 An intro to C# Programming - Comparing integers using relational and equality operators.
 
+## What I've learned
+How to use the 'if statement' to compare the relational and equality operators in order to calculate the sum for each integer.
+
 ### Example screenshot
 ![image](https://user-images.githubusercontent.com/36749450/95113694-d6d3ad80-0710-11eb-9f58-f1f182e39ea8.png)
 
